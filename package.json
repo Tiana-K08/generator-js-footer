@@ -1,0 +1,26 @@
+{
+  "name": "generator-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "keywords": [
+    "footer"
+  ],
+  "homepage": "https://github.com/Tiana-K08/generator-js-footer#readme",
+  "bugs": {
+    "url": "https://github.com/Tiana-K08/generator-js-footer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiana-K08/generator-js-footer.git"
+  },
+  "license": "MIT",
+  "author": "tiana-k08 <tetkononenko2020@gmail.com> (https://www.npmjs.com/~tiana-k08)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
