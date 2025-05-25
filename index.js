@@ -1,6 +1,6 @@
 'use strict';
 
-var moment = require('moment');
+const moment = require('moment');
 
 /**
  * Returns a string element with a footer and updating year
