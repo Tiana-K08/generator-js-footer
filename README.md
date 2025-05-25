@@ -26,5 +26,5 @@ footer('YourName');
 ---
 ## Publicación
 El paquete está disponible en el registro de NPM:
-[https://www.npmjs.com/package/devcamp-js-footer](https://www.npmjs.com/package/devcamp-js-footer)
+[https://www.npmjs.com/package/generator-js-footer](https://www.npmjs.com/package/generator-js-footer)
 
